@@ -1,10 +1,6 @@
 DS Node
 
-_Copy .env.example to a .env file_
-  
 
--  `npm install`
--  `npm run dev`
 
 
 ![image](https://github.com/Jerem-14/Jeremy-Aubry-NodeJS/assets/94076111/7a0ac29f-af2b-4add-8236-ddfbe3d4d22b)
